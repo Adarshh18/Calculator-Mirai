@@ -27,10 +27,26 @@ This repository contains my Streamlit projects completed as part of the MirAI Sc
 - Google Gemini API
 - python-dotenv
 
-## Project Screenshots
+## Assignment 3
 
-### Home Screen
-![Home Screen](home.png)
+### AI Multiverse Chatbot (Enhanced)
 
-### Chat Example
-![Chat Example](chat.png)
+##### Features
+
+- Multiple AI Personalities
+- Chat Memory
+- Streamlit Chat Interface
+- Clear Chat Option
+
+##### Technologies Used
+
+- Python
+- Streamlit
+- Google Gemini API
+- python-dotenv
+
+## Project Demo
+
+### Demo Video
+
+[🎥 Assignment 3 Demo](https://drive.google.com/file/d/1LrrOvlVIJZK4T5K2gsiLk_sab2KkvdIa/view?usp=drivesdk)
